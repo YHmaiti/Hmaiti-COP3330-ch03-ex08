@@ -6,6 +6,8 @@
 // include the adequate header file that contains the main libraries imported
 #include "std_lib_facilities.h"
 
+// the helper function prototype was declared in the Header File!!!!!!
+
 // use the standard namespace
 using namespace std;
 
